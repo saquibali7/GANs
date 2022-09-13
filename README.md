@@ -3,7 +3,7 @@
 ### ii. Implemetation of WGAN with gradient penalty in pytorch for generating images from random noises.
 
 ### model architecture : 
-<img height="450em" width="750" src="assets/real.png"/>
+<img height="450em" width="750" src="assets/gan_model.png"/>
 
 ## Real image : 
 <img height="200em" width="800" src="assets/real.png"/>
